@@ -7,3 +7,9 @@ You can now use the `user prompt improvement` it helps transform vague or broad 
 
 [Go to GitHub Models playground](https://github.com/marketplace/models/azure-openai/gpt-4o/playground)
 
+## Prompts index
+
+| ID  | Name                  | Description                                      |
+|-----|-----------------------|--------------------------------------------------|
+| 1   | Create [analysis](./analysis/readme.md) document| Prompts to create analysis document from scratch. |
+
