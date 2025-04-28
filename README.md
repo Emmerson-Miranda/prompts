@@ -13,6 +13,7 @@ You can now use the `user prompt improvement` it helps transform vague or broad 
 |-----|-----------------------|--------------------------------------------------|
 | 1   | Create [analysis](./analysis/readme.md) document| Prompts to create analysis document from scratch.      |
 | 2   | Create [User stories](./user_stories/readme.md) document| Prompts to create user stories from analysis document. |
+| 3   | Create [Technical specification](./technical_specification/readme.md) document| Prompts to create technical specification. |
 
 
 
