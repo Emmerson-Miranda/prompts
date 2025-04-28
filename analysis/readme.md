@@ -11,7 +11,7 @@ Prompt to create a template of a technical requirement analysis.
 Provide a detailed template in markdown format for creating a formal and technical requirements analysis document for a web application. Ensure the template adheres to industry best practices, organizes sections in a logical sequence, and includes a clear explanation of the purpose and expected content for each section.
 ```
 
-Output of the previous prompt is captured in [template document](./template.md).
+Output of the previous prompt is captured in [template document](./analysis_template_generated.md).
 
 **Step 2** - Generate the document using the template
 
@@ -58,11 +58,3 @@ After run the previous prompt the expectation is the AI will ask you some questi
 ```
 
 Here is the [analysis document generated based on my responses](./analysis_generated.md).
-
-## Contributing
-
-Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).

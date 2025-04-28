@@ -11,5 +11,15 @@ You can now use the `user prompt improvement` it helps transform vague or broad 
 
 | ID  | Name                  | Description                                      |
 |-----|-----------------------|--------------------------------------------------|
-| 1   | Create [analysis](./analysis/readme.md) document| Prompts to create analysis document from scratch. |
+| 1   | Create [analysis](./analysis/readme.md) document| Prompts to create analysis document from scratch.      |
+| 2   | Create [User stories](./user_stories/readme.md) document| Prompts to create user stories from analysis document. |
 
+
+
+## Contributing
+
+Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md).
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
